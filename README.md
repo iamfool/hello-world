@@ -6,4 +6,4 @@ Hello GitHub  World
 - The man who has no imagination has no wings
 - It is not how much we have, but how much we enjoy, that makes happiness.
 
-<< More Quotes >>
+<< More Quotes.. corrected >>
